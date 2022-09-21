@@ -1,0 +1,13 @@
+div{
+    display:grid;
+    background-image: url("img1.jpeg");
+    background-position: right;
+}
+
+h1{
+    color: red;
+
+}
+p{
+    color: yellow;
+}

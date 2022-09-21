@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+a{
+    margin: 5px;
+    padding: 5px;
+    color: white;
+   
+    
+}
+
+p{
+    color:white;
+    position: relative;
+}
+
+
